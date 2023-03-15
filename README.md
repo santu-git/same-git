@@ -1,1 +1,1 @@
-# same-git
+# Sample Git Project
